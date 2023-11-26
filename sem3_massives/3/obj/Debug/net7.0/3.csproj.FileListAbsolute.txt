@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\bin\Debug\net7.0\3.exe
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\bin\Debug\net7.0\3.deps.json
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\bin\Debug\net7.0\3.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\bin\Debug\net7.0\3.dll
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\bin\Debug\net7.0\3.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.dll
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\refint\3.dll
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\3.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\C#\sem3_massives\3\obj\Debug\net7.0\ref\3.dll
