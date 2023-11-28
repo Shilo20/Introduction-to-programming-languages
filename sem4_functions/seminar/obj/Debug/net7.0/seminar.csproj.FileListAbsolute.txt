@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\bin\Debug\net7.0\seminar.exe
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\bin\Debug\net7.0\seminar.deps.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\bin\Debug\net7.0\seminar.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\bin\Debug\net7.0\seminar.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\bin\Debug\net7.0\seminar.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\refint\seminar.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\seminar.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\seminar\obj\Debug\net7.0\ref\seminar.dll

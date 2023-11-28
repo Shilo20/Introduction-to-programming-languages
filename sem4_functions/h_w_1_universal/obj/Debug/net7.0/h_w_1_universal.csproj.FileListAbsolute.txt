@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\bin\Debug\net7.0\h_w_1_universal.exe
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\bin\Debug\net7.0\h_w_1_universal.deps.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\bin\Debug\net7.0\h_w_1_universal.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\bin\Debug\net7.0\h_w_1_universal.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\bin\Debug\net7.0\h_w_1_universal.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\refint\h_w_1_universal.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\h_w_1_universal.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1_universal\obj\Debug\net7.0\ref\h_w_1_universal.dll

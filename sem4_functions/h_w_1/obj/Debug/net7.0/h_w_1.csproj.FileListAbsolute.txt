@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\bin\Debug\net7.0\h_w_1.exe
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\bin\Debug\net7.0\h_w_1.deps.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\bin\Debug\net7.0\h_w_1.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\bin\Debug\net7.0\h_w_1.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\bin\Debug\net7.0\h_w_1.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\refint\h_w_1.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\h_w_1.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem4_functions\h_w_1\obj\Debug\net7.0\ref\h_w_1.dll
