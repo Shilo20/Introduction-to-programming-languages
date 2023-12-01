@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\bin\Debug\net7.0\sem5_dblmassives.exe
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\bin\Debug\net7.0\sem5_dblmassives.deps.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\bin\Debug\net7.0\sem5_dblmassives.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\bin\Debug\net7.0\sem5_dblmassives.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\bin\Debug\net7.0\sem5_dblmassives.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\refint\sem5_dblmassives.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\sem5_dblmassives.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem5_dblmassives\obj\Debug\net7.0\ref\sem5_dblmassives.dll
