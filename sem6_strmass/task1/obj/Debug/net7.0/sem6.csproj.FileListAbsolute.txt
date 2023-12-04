@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\bin\Debug\net7.0\sem6.exe
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\bin\Debug\net7.0\sem6.deps.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\bin\Debug\net7.0\sem6.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\bin\Debug\net7.0\sem6.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\bin\Debug\net7.0\sem6.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\refint\sem6.dll
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.pdb
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\sem6.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\C#\Introduction-to-programming-languages-seminars\sem6\obj\Debug\net7.0\ref\sem6.dll
