@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\experements_C#\interactive_massive\bin\Debug\net7.0\interactive_massive.exe
+C:\Users\Alexey\programming\experements_C#\interactive_massive\bin\Debug\net7.0\interactive_massive.deps.json
+C:\Users\Alexey\programming\experements_C#\interactive_massive\bin\Debug\net7.0\interactive_massive.runtimeconfig.json
+C:\Users\Alexey\programming\experements_C#\interactive_massive\bin\Debug\net7.0\interactive_massive.dll
+C:\Users\Alexey\programming\experements_C#\interactive_massive\bin\Debug\net7.0\interactive_massive.pdb
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.AssemblyInfo.cs
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.dll
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\refint\interactive_massive.dll
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.pdb
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\interactive_massive.genruntimeconfig.cache
+C:\Users\Alexey\programming\experements_C#\interactive_massive\obj\Debug\net7.0\ref\interactive_massive.dll
